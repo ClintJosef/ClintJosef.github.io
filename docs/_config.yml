@@ -28,7 +28,7 @@ twitter_username: null
 github_username:  ClintJosef
 
 # Build settings
-remote_theme: Gatsby Theme Serial Programmer
+theme: Hacker
 plugins:
   - jekyll-feed
 
