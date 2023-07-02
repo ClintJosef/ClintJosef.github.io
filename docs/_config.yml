@@ -28,7 +28,7 @@ twitter_username: null
 github_username:  ClintJosef
 
 # Build settings
-theme: architect
+theme: cayman
 plugins:
   - jekyll-feed
 
