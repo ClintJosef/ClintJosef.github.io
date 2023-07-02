@@ -1,5 +1,5 @@
 layout: page
 title: "My calculator"
-permalink: /Python/calculator
+permalink: /python/calculator/
 
 My calculator made through PySimpleGUI
