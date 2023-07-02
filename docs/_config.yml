@@ -28,7 +28,7 @@ twitter_username: null
 github_username:  ClintJosef
 
 # Build settings
-theme: minima
+remote_theme: Gatsby Theme Serial Programmer
 plugins:
   - jekyll-feed
 
