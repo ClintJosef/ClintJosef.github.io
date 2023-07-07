@@ -28,7 +28,7 @@ twitter_username: null
 github_username:  ClintJosef
 
 # Build settings
-theme: Hacker
+theme: Minima
 plugins:
   - jekyll-feed
 
